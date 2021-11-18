@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Whatsapp application</title>
+        <title>Whatsapp application !</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
